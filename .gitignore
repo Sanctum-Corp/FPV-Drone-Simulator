@@ -13,6 +13,7 @@
 Scenes/Fly scene/Not using/
 Assets/  
 !Assets/Scenes/  
+!Assets/Scenes/**
 SampleScene
 
 
