@@ -11,9 +11,8 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 Scenes/Fly scene/Not using/
+!Assets/Scenes/
 Assets/  
-!Assets/Scenes/  
-!Assets/Scenes/**
 SampleScene
 
 
