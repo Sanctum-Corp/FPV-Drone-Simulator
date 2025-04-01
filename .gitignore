@@ -10,7 +10,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+
 Scenes/Fly scene/Not using
+
 Assets/*
 !Assets/Scenes/
 !Assets/Scenes/**
